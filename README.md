@@ -22,7 +22,7 @@
 1.Клонировать репозиторий
 
 bash
-<https://github.com/yourusername/CleanContact.git>
+git clone <https://github.com/SorokaGalina041125/CleanContact.git>
 cd CleanContact
 
 2.Создать и активировать виртуальное окружение
@@ -48,7 +48,7 @@ pip install -r requirements.txt
 
 5.Запустить обработку
 
-python src/contact_cleaner.py
+python main.py
 
 6.Результат
 
